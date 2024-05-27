@@ -5,7 +5,7 @@ This repository contains a Flask application that allows users to upload an imag
 
 ## Features
 * Upload an image via a web interface.
-* Use the OpenAI GPT-4 API to detect and describe the contents of the uploaded image.
+* Use the OpenAI GPT-4o API to detect and describe the contents of the uploaded image.
 * Display the image and its description on the web page.
 
 ## Requirements
